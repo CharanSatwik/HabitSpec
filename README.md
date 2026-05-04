@@ -15,8 +15,7 @@ A minimalist, distraction-free Flutter habit tracking application featuring secu
 ## Features
 
 -  **Built with Flutter:** Cross-platform support with smooth, premium UI transitions.
--  **Secure Authentication:** Complete Firebase integration with Email/Password verification and Google Sign-In.
--  **Distraction-Free:** Purposefully streamlined core functionality to keep users focused on their habits (no noisy alarms or notifications). 
+-  **Secure Authentication:** Complete Firebase integration with Email/Password verification and Google Sign-In. 
 -  **Cloud Synchronization:** Utilizes Cloud Firestore for real-time backend data synchronization.
 -  **Modern Architecture:** Clean state management using the `Provider` package.
 
